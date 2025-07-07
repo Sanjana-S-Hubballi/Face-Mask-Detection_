@@ -26,5 +26,6 @@ This project aims to detect and classify faces in an image as either masked or u
 ## Confusion matrix
 ![confusion_matrix](https://github.com/user-attachments/assets/e4e50085-1581-46cf-9981-02674aaa32e6)
 
+### False Acceptance Rate and False Rejection Rate
 ![FAR_FRR](https://github.com/user-attachments/assets/09573f15-83a8-4f39-9241-ec4981d65892)
 
